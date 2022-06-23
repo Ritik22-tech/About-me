@@ -1,0 +1,162 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+hr{
+    border-style: dotted;
+}
+h2{
+    margin-top: 50px;
+    width: 100%;
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
+    color: rgb(0, 183, 255);
+    margin-left: 50px;
+}
+
+.main {
+    background-color: rgb(0, 183, 255);
+    width: 100%;
+    height: 80px;
+}
+
+.logo {
+    width: 60px;
+    margin-right: 650px;
+    margin-left: 10px;
+    margin-top: 15px;
+    float: left;
+    /* position: fixed;  */
+}
+
+.header {
+    font-size: 25px;
+    display: inline;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+a{
+    text-decoration: none;
+
+}
+
+.container1 {
+    background-color: white;
+    text-align: center;
+    margin-top: 80px;
+}
+
+h1 {
+    width: 30%;
+    margin: 0 auto 0 auto;
+    font-size: 70px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.pcontainer1 {
+    font-size: 25px;
+    font-family: 'Smooch', cursive;
+}
+
+.sun {
+    width: 10%;
+    position: absolute;
+    top: 140px;
+    right: 200px;
+}
+
+.hii{
+    float: left;
+    margin-right: 180px;
+    padding: 30px;
+}
+.Hlw {
+    width: 60%;
+    height: auto;
+    font-family: 'Lobster', cursive;
+    font-size: 18px;
+    background-color: white;
+    margin-left: 20%;
+}
+
+.skl{
+    float: right;
+    margin-left: 150px;
+    width: 300px;
+    padding: 20px;
+}
+.skills {
+    width: 60%;
+    height: auto;
+    font-family: 'Lobster', cursive;
+    font-size: 18px;
+    background-color: white;
+    margin-left: 20%;
+}
+
+.run{
+    float: left;
+    margin-right: 20px;
+    padding: 75px;
+}
+.tab{
+    margin-top: 50px;
+}
+.sw {
+    width: 60%;
+    height: auto;
+    font-family: 'Lobster', cursive;
+    font-size: 18px;
+    text-align: justify;
+    background-color: white;
+    margin-left: 20%;
+}
+
+.eh{
+    margin: 0px;
+    margin-top: 150px;
+    margin-bottom: 30px;
+}
+.lastend{
+    width: 60%;
+    height: 300px;
+    font-size: 18px;
+    margin-left: 20%;
+    background-color: white;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    text-shadow: 0px 0px 0px #000000;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 24px;
+    background: #0099ff;
+    padding: 10px 20px 10px 20px;
+    border: solid #3679a3 2px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #0099ff);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #0099ff);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #0099ff);
+    background-image: -o-linear-gradient(top, #3cb0fd, #0099ff);
+    background-image: linear-gradient(to bottom, #3cb0fd, #0099ff);
+    text-decoration: none;
+}
+
+.ea{
+    margin-left: 50px;
+}
+.end{
+    height: 50px;
+    background-color: rgb(0, 183, 255);
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    padding: 35px;
+}
